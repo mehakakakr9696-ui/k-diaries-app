@@ -153,7 +153,7 @@ elif tab == "3. Practice & Quiz":
     consonants = ["ㄱ", "ㄴ", "ㄷ", "ㄹ", "ㅁ", "ㅂ", "ㅅ", "ㅇ", "ㅈ"]
     vowels = ["ㅏ", "ㅓ", "ㅣ", "ㅑ"]
     
-    st.subheader("Question 1: Make the syllable 'ga' (as in 가 - Go)")
+    st.subheader("Question 1: Make the syllable 'ga' (as in 가 - Ga)")
     q1_c = st.selectbox("Select Consonant:", consonants, key="q1_c")
     q1_v = st.selectbox("Select Vowel:", vowels, key="q1_v")
 
