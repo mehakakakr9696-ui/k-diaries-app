@@ -19,7 +19,7 @@
 ## Local Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/mehakakakr9696-ui/k-dairies-app](https://github.com/mehakakakr9696-ui/k-dairies-app)
+git clone https://github.com/mehakakakr9696-ui/k-dairies-app.git
 # Install requirements
 pip install -r requirements.txt
 
